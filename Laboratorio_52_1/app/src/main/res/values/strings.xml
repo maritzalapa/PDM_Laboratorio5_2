@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Androidexamples06form</string>
+    <string name="action_settings">Settings</string>
+    <string name="back">Volver</string>
+    <string name="save">Salvar</string>
+    <string name="form">Formulario</string>
+    <string name="largeText">Large Text</string>
+    <string name="checkText">check it out</string>
+    <string name="numberTelephone">numero de telefono</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+</resources>
